@@ -1,0 +1,14 @@
+{
+  "resourceName": "ImageNotes",
+  "policyUUID": "9670ad82",
+  "bucketName": "firstbucketofimages",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
